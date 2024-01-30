@@ -1,0 +1,31 @@
+1. Lee, S. (2023). The Trajectory of Public Attitudes Toward Immigrants in the United States: Latent Growth Analysis Approach.Journal of the Society for Social Work and Research.
+           https://doi.org/10.1086/713998
+2. Espenshade, T. J., & Hempstead, K. (1996). Contemporary American Attitudes Toward U.S. Immigration. The International Migration Review, 30(2), 535–570.
+	   https://doi.org/10.2307/2547393
+3. Card, D., Chang, S., Becker, C., Mendelsohn, J., Voigt, R., Boustan, L., Abramitzky, R., & Jurafsky, D. (2022). Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration. Proceedings of the National Academy of Sciences, 119(31), e2120510119.
+	   https://doi.org/10.1073/pnas.2120510119
+
+*The Trajectory of Public Attitudes Toward Immigrants in the United States: Latent Growth Analysis Approach
+
+-The author conducted a latent growth model using the General Social Survey data sets.
+-The data set the author is using is from the periods 1996, 2004, and 2014. The total sample size was 3,639 U.S. citizens, about country. 
+-The method of dealing with missing data is not stated. 
+-I would like to analyze and study the author's way of approaching the GSS data set as I am also planning on using the GSS as a primary data source for my research.
+
+*Contemporary American Attitudes Toward U.S. Immigration
+
+-The paper uses data from a CBS News/New York Times poll conducted in June 1993 and employs an ordinal scale and a linear model. 
+-The data is about countries, but through the examination of individual responses. The period is in June 1993.
+-The author did not provide information about what they did with missing data.
+-I would like to take the author’s approach in describing the results. The way the author employed tables, and graphs, as well as meticulously listing out all their findings is something I wish to replicate in my paper. 
+
+*Computational analysis of 140 years of US political speeches reveals more positive but increasingly polarized framing of immigration
+
+-The paper uses quantitative text analysis methods to systematically investigate the language used in congressional and presidential speeches about immigration. The paper uses more than 17 million congressional speeches from 1880 to 2022. 
+-The data is about countries, but from individual congressional plus presidential speeches. The data represent the period from 1880 to 2022. 
+-The author did not clarify how they dealt with missing data.
+-The concept of contextual embeddings of text is interesting to me because it is something entirely foreign to me. I would like to see if it is possible to incorporate this kind of analysis into my own research as well. 
+
+Data sets:
+-General Social Survey data sets - https://gssdataexplorer.norc.org/
+-CBS News/New York Times poll conducted in June 1993 - https://www.nytimes.com/1993/06/27/us/poll-finds-tide-of-immigration-brings-hostility.html
